@@ -18,7 +18,7 @@
   <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/2d1fee88-da75-4352-8470-1998e9309f7f" alt="banner">
 </p>
 
-> Welcome to the `Dermify.AI` 👨🏻‍⚕️💉 web app! Dermify is the first AI powered Skin Diagnosis application which harnesses the power of Image Processing and Google's Bard (LLM) to offer cost-effective and accessible skin condition assessments worldwide.
+> Welcome to the `Remisense` 👨🏻‍⚕️💉 Webapp! Remisense is the first AI powered Disease Prognosis application which harnesses the power of Image Processing and Machine Learning to offer cost-effective and accessible Telemedicine and Personalized Healthcare support.
 
 Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://github.com/riyamahantyyy) | [Joybrata Das](https://github.com/joyous4) | [Samrat Das](https://github.com/das2Samrat)
 
