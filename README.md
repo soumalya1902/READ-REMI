@@ -46,16 +46,27 @@ Develop innovative medical technologies and healthcare applications that improve
    
 ## ✨ Features :
 
-- Comprehensive overview of users’ health and wellness, facilitating easy tracking and management of health data
-- Advanced image analysis through (AI model and google's Bard LLM) for instant identification and diagnosis of skin conditions, providing immediate insights into dermatological health
-- Personalized skincare recommendations and routines based on individual skin types and concerns, promoting healthier and more radiant skin
-- Access to a vast medical information database, enabling quick and accurate searches for comprehensive disease-related details
-- Data-driven insights for monitoring and optimizing overall health, offering valuable information for informed lifestyle choices
-- Used Magic-sdk for fast and most secure passwordless authentication
-- Receive personalized alerts based on health analytics, providing timely information for informed lifestyle choices
-- Supportive online community for sharing experiences, seeking advice, and connecting with others facing similar health challenges
-- Explore options to upgrade plans (premium users) for enhanced features and benefits
-- Connect with healthcare professionals for online consultations (Video Chat) and advice
+- **Predimed** - Multiple Disease Predictor Tool based on Acute Health Symptoms using Machine Learning.
+- **Detectify** - AI Supported Detector of Diseases using Most Accurate ML Algorithm and Data Visualization.
+- **Arogyascan** - Detect the chances of Diseases with Imaging Diagnostic Scans by Uploading Lab Test Reports.
+- **Covisolve** - Covid19 Awareness Website with Necessary Emergency Facilities and Live Case Tracker using API.
+- **Chikitsabot** - Our Disease Prediction Chatbot empowers Health Forecasts and guides for Proactive Measures.
+- **Healthmate** - Telemedicine Support Chatbot with Simplified User Interface and Instant Message Response.
+- **Mentihelp** - Get Mental Health Counselling and Advice to overcome Depression with AI Trained Chatbot.
+- **Vitachat** - Real Time Botpress Integrated Sustainenance Chatbot for Instant Medical Emergencies.
+- **Medisphere** - Message our Team of Licensed Doctors across all Specialities to get Personalized  Medical  Advice.
+- **Physicord** - Search for In-Network Doctors and Schedule Virtual Appointments on particular Date and Time.
+- **Documeet** - Get access to Consultation from Doctors with 1:1 Video Conferencing and Prescribing of Medicine.
+- **Pharmascore** - Online Medicine Quality Review Analyser with Side Effect Alert Notifier before Personal Intake.
+- **Recominac** - Self Medicine Recommendation Setup for Alternate Medication and purchase through Pharmeasy.
+- **Blogverse** - Read our regularly updated Blogs on Critical Cases with Health Tips and Wellness Advices.
+- **Curatrack** - Nearby Live Hospital and Nursing Home Tracking System using Google Maps API Locator.
+- **Rescuvan** - Centralized 24/7 Ambulance SOS Service for Urgent Medical Crisis whenever needed.
+- **Bedcline** - Easy Access to Check Virtual Bed Availability Status for the Remote Site Medical Admissions.
+- **Bloodfront** - Unified Network of Blood Banks across the Country for the Complimentary Transfusions.
+- **Organifier** - Comprehensive Organ Donation Portal for the sake of handling Critical Body Failure Cases.
+- **Criticare** - Simplified Review and Complaint Submission System with the help of Integrated Google Form.
+- **Swiftpay** - Convenient Consultation Fee and Hospital Bill Payment through Instamojo Gateway.
 
 ## 📸 Screenshots of Website :
 
