@@ -1,6 +1,7 @@
 <div>
   <p align="center">
-    <img src="./client/src/assets/svgs/Logo.png" alt="logo" height="90rem" width="90rem">
+    <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/31f4d0de-7e77-4032-9d47-039e1e4180e1" alt="logo" height="90rem" width="90rem">
+    
   </p>
   <h1 align="center"> Dermify.AI </h1>
 </div>
