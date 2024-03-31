@@ -12,8 +12,6 @@
 
 ## 💻 Project Description :
 
-<img src="static/images/doctors-animate.svg" align="right" height="300px">
-
 Remisense is a web application developed using Flask, a web framework in Python that aims to assist patients in obtaining the necessary medical care for their needs. The system allows users to register as patients or doctors, book appointments, and predict diseases based on symptoms. Doctors can view and manage appointments, while patients can track their appointments and update their profiles. Additionally, the system provides information on various health-related topics through blog posts and also analyses mental health conditiion of patients.
 
 <p align="center">
@@ -24,28 +22,28 @@ Remisense is a web application developed using Flask, a web framework in Python 
 
 ## 🧑‍💻 Author : **Soumalya Bhattacharyya** | **Sayan pan** | **Soumyadeep Banerjee** 
 
-## Problem Statement :
+## 🛠️ Problem Statement :
 Develop innovative medical technologies and healthcare applications that improve patient outcomes and provide better access to healthcare.
 
-## Proposed Solution :
+## 📝 Proposed Solution :
 • Enhanced Patient Care: The centralized health card will streamline the transfer of patient information, reducing the risk of medical errors and enabling healthcare providers to make informed decisions promptly.
 • Reduced Redundancy: By eliminating the need for redundant medical tests and procedures, healthcare costs will decrease, leading to more efficient resource allocation.
 • Improved Efficiency: Healthcare professionals will spend less time on administrative tasks, allowing them to focus more on delivering quality care to patients.
 • Empowered Patients: Patients will have better access to their health information, enabling them to actively participate in their care decisions and manage their health more effectively.
 
-## Tracks and Domain : HealthTech
+## 💻 Tracks and Domain : HealthTech
 
 ## 🛠️ Technology Stacks :
 
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/razorpay%20-2b83ea.svg?&style=for-the-badge&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/render%20-%2346E3B7.svg?&style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white"/> <img src="https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white"/> <img src="https://img.shields.io/badge/Dialogflow-FF9800.svg?style=for-the-badge&logo=Dialogflow&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=for-the-badge&logo=Google-Maps&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white"/>
 
-- **Frontend**: ReactJS, Chakra-UI
-- **Backend**: NodeJS, ExpressJS, MongoDB
-- **Model**: Google Bard (LLM), Huggingface Model
-- **API**: Magic-sdk api, Razorpay api, Formspree api
-- **Version Control**: Git
-- **Hosting**: Render, Vercel
-
+1. **Frontend**: HTML, CSS, Javascript
+2. **Backend**: Python, Flask
+3. **Model**: Machine Learning , Deep Learning , Python Libraries
+4. **API**: Google Maps API, Razorpay API, 
+5. **Version Control**: Git , Github
+6. **Database**: MySQL, Redis
+   
 ## ✨ Features :
 
 - Comprehensive overview of users’ health and wellness, facilitating easy tracking and management of health data
@@ -196,7 +194,7 @@ Develop innovative medical technologies and healthcare applications that improve
     </tr>
 </table> 
 
-## Installation Guide :
+## 🛠️ Installation Guide :
 
 1. Clone the repository: `git clone https://github.com/your-username/Remisense Webapp.git`
 2. Install dependencies: `pip install -r requirements.txt`
