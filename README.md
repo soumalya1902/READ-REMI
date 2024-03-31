@@ -27,8 +27,11 @@ Develop innovative medical technologies and healthcare applications that improve
 
 ## 📝 Proposed Solution :
 • Enhanced Patient Care: The centralized health card will streamline the transfer of patient information, reducing the risk of medical errors and enabling healthcare providers to make informed decisions promptly.
+
 • Reduced Redundancy: By eliminating the need for redundant medical tests and procedures, healthcare costs will decrease, leading to more efficient resource allocation.
+
 • Improved Efficiency: Healthcare professionals will spend less time on administrative tasks, allowing them to focus more on delivering quality care to patients.
+
 • Empowered Patients: Patients will have better access to their health information, enabling them to actively participate in their care decisions and manage their health more effectively.
 
 ## 💻 Tracks and Domain : HealthTech
