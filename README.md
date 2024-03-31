@@ -150,8 +150,6 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-    <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/44d469a1-7487-4a0a-a314-95662462052c"></img>
             <br />
@@ -164,71 +162,51 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-  <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/c0b0168a-bbb5-4178-8d3e-3e83d718b043"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-  <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/ebb1386f-6497-4b30-a9a5-606ff255d293"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-  <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/59c68c82-ba2d-49b1-9d34-2f5ecaf7ab02"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-  <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/0173f05e-3f3b-4d89-98a9-eb5c16e56366"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-  <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/7ef200a1-1d5c-41b0-8ce8-4c02eedc7fe8"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-  <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/ddedede0-433c-4a68-bed0-b5a50abc44b2"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-  <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/440b51bb-9746-4f0a-bcdc-c5021763baed"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-  <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/4f6eddc2-66be-4249-9800-655859d35247"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-   <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/3d289aec-c5fa-4e61-b8db-fa86e105df02"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-   <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/9adefb4e-a6f6-44ac-a4bd-951f24bcfd27"></img>
             <br />
