@@ -102,6 +102,134 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
         </td>
     </tr>
     <tr>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf"></img>
+            <br />
+            <p align="center">Landing Page Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d"></img>
+            <br />
+            <p align="center">Features Section</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf"></img>
+            <br />
+            <p align="center">Landing Page Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d"></img>
+            <br />
+            <p align="center">Features Section</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf"></img>
+            <br />
+            <p align="center">Landing Page Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d"></img>
+            <br />
+            <p align="center">Features Section</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf"></img>
+            <br />
+            <p align="center">Landing Page Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d"></img>
+            <br />
+            <p align="center">Features Section</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf"></img>
+            <br />
+            <p align="center">Landing Page Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d"></img>
+            <br />
+            <p align="center">Features Section</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf"></img>
+            <br />
+            <p align="center">Landing Page Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d"></img>
+            <br />
+            <p align="center">Features Section</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf"></img>
+            <br />
+            <p align="center">Landing Page Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d"></img>
+            <br />
+            <p align="center">Features Section</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf"></img>
+            <br />
+            <p align="center">Landing Page Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d"></img>
+            <br />
+            <p align="center">Features Section</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf"></img>
+            <br />
+            <p align="center">Landing Page Section</p>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d"></img>
+            <br />
+            <p align="center">Features Section</p>
+        </td>
+    </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!--     <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/2c4b77ff-55b3-48af-b730-9812ffee8819"></img>
             <br />
@@ -221,7 +349,7 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
             <p align="center">Contact Us Section</p>
         </td>
     </tr>
-</table>
+</table> -->
 
 ## 📸 Developers :
 
