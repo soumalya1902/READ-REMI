@@ -20,7 +20,7 @@
 
 > Welcome to the `Remisense` 👨🏻‍⚕️💉 Webapp! Remisense is the first AI powered Disease Prognosis application which harnesses the power of Image Processing and Machine Learning to offer cost-effective and accessible Telemedicine and Personalized Healthcare support.
 
-Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://github.com/riyamahantyyy) | [Joybrata Das](https://github.com/joyous4) | [Samrat Das](https://github.com/das2Samrat)
+Author : **Soumalya Bhattacharyya** | **Sayan pan** | **Soumyadeep Banerjee** 
 
 ## 🛠️ Built with :
 
