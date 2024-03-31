@@ -3,11 +3,11 @@
     <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/31f4d0de-7e77-4032-9d47-039e1e4180e1" alt="logo" height="90rem" width="90rem">
     
   </p>
-  <h1 align="center"> Dermify.AI </h1>
+  <h1 align="center"> Remisense </h1>
 </div>
 
 <h3 align="center">
-  🏆 Winner of the "Best AI Hack" @Diversion Hackathon 2024 by IEM-ACM
+  Multiple Ailment AI Based Prognosis with Personalized Telecare Assistance Platform
 </h3>
 
 ## <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ3YWRuajZ1d2pydm0zaW44bW1qMmF2eHlleW1peGt5ejhrMjJkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kU4mcmHfmV7YhuIj6J/giphy.gif" width="45"> Project Details :
