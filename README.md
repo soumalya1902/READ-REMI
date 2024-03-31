@@ -107,61 +107,61 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
             <br />
             <h3 align="center">User Dashboard Page</h3>
         </td>
-    </tr>
-    <tr>
         <td width="50%">
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/4e3710fb-66c9-4398-b849-7ec8deb66f5f"></img>
             <br />
             <p align="center">Derma Prediction Page</p>
             </td>
+  </tr>
+    <tr>
         <td width="50%">
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/1305dd21-39d7-49df-a489-8b2a38fbf9ad"></img>
             <br />
             <p align="center">Explore Derma Page</p>
             </td>
-    </tr>
-    <tr>
         <td width="50%">
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/bac12c66-0854-4f73-b7ea-51910e34c225"></img>
             <br />
             <p align="center">Health Analytics Page</p>
         </td>
+  </tr>
+    <tr>
         <td width="50%">
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/58b3149a-82ac-47a0-a9be-6afe1099121c"></img>
             <br />
             <p align="center">Community Forum Page</p>
         </td>
-    </tr>
-    <tr>
          <td width="50%">
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/03fbb2d8-1e11-4fc9-9280-5a07b900fe0a"></img>
             <br />
             <p align="center">Subscription Plan Page</p>
         </td>
+  </tr>
+    <tr>
         <td width="50%">
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/c1d9f2df-0b56-46f9-8b94-dd91146830d5"></img>
             <br />
             <p align="center">Patient Video Call Page</p>
         </td>
-    </tr>
-    <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/822518d1-e866-42e2-a4ed-89308528666d"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
+  </tr>
+    <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/44d469a1-7487-4a0a-a314-95662462052c"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
-    </tr>
-  <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/ba1a6b23-a8c4-475a-a22e-fb889814c632"></img>
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
+  </tr>
+    <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/c0b0168a-bbb5-4178-8d3e-3e83d718b043"></img>
             <br />
@@ -172,6 +172,8 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
+  </tr>
+    <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/59c68c82-ba2d-49b1-9d34-2f5ecaf7ab02"></img>
             <br />
@@ -182,6 +184,8 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
+  </tr>
+    <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/7ef200a1-1d5c-41b0-8ce8-4c02eedc7fe8"></img>
             <br />
@@ -192,6 +196,8 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
+  </tr>
+    <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/440b51bb-9746-4f0a-bcdc-c5021763baed"></img>
             <br />
@@ -202,6 +208,8 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
             <br />
             <h3 align="center">Doctor's Dashboard</h3>
         </td>
+  </tr>
+    <tr>
         <td width="50%>
             <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/3d289aec-c5fa-4e61-b8db-fa86e105df02"></img>
             <br />
