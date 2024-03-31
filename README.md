@@ -10,7 +10,7 @@
   Multiple Ailment AI Based Prognosis with Personalized Telecare Assistance Platform
 </h3>
 
-## 💻 Project Details :
+## 💻 Project Description :
 
 
 
