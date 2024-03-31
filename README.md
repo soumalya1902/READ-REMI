@@ -12,7 +12,9 @@
 
 ## 💻 Project Description :
 
+<img src="static/images/doctors-animate.svg" align="right" height="300px">
 
+Remisense is a web application developed using Flask, a web framework in Python that aims to assist patients in obtaining the necessary medical care for their needs. The system allows users to register as patients or doctors, book appointments, and predict diseases based on symptoms. Doctors can view and manage appointments, while patients can track their appointments and update their profiles. Additionally, the system provides information on various health-related topics through blog posts and also analyses mental health conditiion of patients.
 
 <p align="center">
   <img src="https://github.com/soumalya1902/READ-REMI/assets/149316877/2d1fee88-da75-4352-8470-1998e9309f7f" alt="banner">
@@ -20,9 +22,20 @@
 
 > Welcome to the `Remisense` 👨🏻‍⚕️💉 Webapp! Remisense is the first AI powered Disease Prognosis application which harnesses the power of Image Processing and Machine Learning to offer cost-effective and accessible Telemedicine and Personalized Healthcare support.
 
-## Author : **Soumalya Bhattacharyya** | **Sayan pan** | **Soumyadeep Banerjee** 
+## 🧑‍💻 Author : **Soumalya Bhattacharyya** | **Sayan pan** | **Soumyadeep Banerjee** 
 
-## 🛠️ Built with :
+## Problem Statement :
+Develop innovative medical technologies and healthcare applications that improve patient outcomes and provide better access to healthcare.
+
+## Proposed Solution :
+• Enhanced Patient Care: The centralized health card will streamline the transfer of patient information, reducing the risk of medical errors and enabling healthcare providers to make informed decisions promptly.
+• Reduced Redundancy: By eliminating the need for redundant medical tests and procedures, healthcare costs will decrease, leading to more efficient resource allocation.
+• Improved Efficiency: Healthcare professionals will spend less time on administrative tasks, allowing them to focus more on delivering quality care to patients.
+• Empowered Patients: Patients will have better access to their health information, enabling them to actively participate in their care decisions and manage their health more effectively.
+
+## Tracks and Domain : HealthTech
+
+## 🛠️ Technology Stacks :
 
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/razorpay%20-2b83ea.svg?&style=for-the-badge&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/render%20-%2346E3B7.svg?&style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white"/> <img src="https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white"/> <img src="https://img.shields.io/badge/Dialogflow-FF9800.svg?style=for-the-badge&logo=Dialogflow&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Maps-4285F4.svg?style=for-the-badge&logo=Google-Maps&logoColor=white"/> <img src="https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white"/>
 
@@ -46,8 +59,7 @@
 - Explore options to upgrade plans (premium users) for enhanced features and benefits
 - Connect with healthcare professionals for online consultations (Video Chat) and advice
 
-
-## 📸 Screenshots :
+## 📸 Screenshots of Website :
 
 <table>
     <tr>
@@ -184,12 +196,17 @@
     </tr>
 </table> 
 
-## 📸 Developers :
+## Installation Guide :
 
-<p align="center">
-    <img src="./client/src/assets/readmeImages/team2.png" alt="logo" height="100%" width="100%">
-  </p>
+1. Clone the repository: `git clone https://github.com/your-username/Remisense Webapp.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the application: `python app.py`
 
-## 📝 Endnote :
+## 📸 Contribution :
 
-While doing this project I (Sayan), Riya, Samrat and Joybrata have learnt how to work in a team and time bounded situation. We enjoyed every moment doing this project and taking part in this awesome hackathon. We are also thankful to all the organizers for organizing this hackathon.
+Feel free to contribute to the project by opening issues or creating pull requests.
+
+## 📝 License:
+
+This project is licensed under the MIT License.
+
