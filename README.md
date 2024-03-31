@@ -46,6 +46,38 @@ Author : [Sayan Maity](https://github.com/Sayan-Maity) | [Riya Mahanty](https://
 - Explore options to upgrade plans (premium users) for enhanced features and benefits
 - Connect with healthcare professionals for online consultations (Video Chat) and advice
 
+
+![SS2](https://github.com/soumalya1902/READ-REMI/assets/149316877/282b415b-4a1c-44f7-868b-45cb768c73cf)
+
+![SS5](https://github.com/soumalya1902/READ-REMI/assets/149316877/63aaabd1-7e67-458c-be53-1695b8e2922d)
+
+![SS6](https://github.com/soumalya1902/READ-REMI/assets/149316877/ff374429-b027-4943-9147-1f980a4ca3ad)
+![SS7](https://github.com/soumalya1902/READ-REMI/assets/149316877/ec1d65d3-fa2f-4bfd-a216-1486a4309bb7)
+
+https://github.com/soumalya1902/READ-REMI/assets/149316877/2c4b77ff-55b3-48af-b730-9812ffee8819
+https://github.com/soumalya1902/READ-REMI/assets/149316877/4e3710fb-66c9-4398-b849-7ec8deb66f5f
+https://github.com/soumalya1902/READ-REMI/assets/149316877/1305dd21-39d7-49df-a489-8b2a38fbf9ad
+https://github.com/soumalya1902/READ-REMI/assets/149316877/bac12c66-0854-4f73-b7ea-51910e34c225
+https://github.com/soumalya1902/READ-REMI/assets/149316877/58b3149a-82ac-47a0-a9be-6afe1099121c
+https://github.com/soumalya1902/READ-REMI/assets/149316877/03fbb2d8-1e11-4fc9-9280-5a07b900fe0a
+https://github.com/soumalya1902/READ-REMI/assets/149316877/c1d9f2df-0b56-46f9-8b94-dd91146830d5
+https://github.com/soumalya1902/READ-REMI/assets/149316877/822518d1-e866-42e2-a4ed-89308528666d
+https://github.com/soumalya1902/READ-REMI/assets/149316877/44d469a1-7487-4a0a-a314-95662462052c
+https://github.com/soumalya1902/READ-REMI/assets/149316877/ba1a6b23-a8c4-475a-a22e-fb889814c632
+https://github.com/soumalya1902/READ-REMI/assets/149316877/c0b0168a-bbb5-4178-8d3e-3e83d718b043
+https://github.com/soumalya1902/READ-REMI/assets/149316877/ebb1386f-6497-4b30-a9a5-606ff255d293
+https://github.com/soumalya1902/READ-REMI/assets/149316877/59c68c82-ba2d-49b1-9d34-2f5ecaf7ab02
+https://github.com/soumalya1902/READ-REMI/assets/149316877/0173f05e-3f3b-4d89-98a9-eb5c16e56366
+https://github.com/soumalya1902/READ-REMI/assets/149316877/7ef200a1-1d5c-41b0-8ce8-4c02eedc7fe8
+https://github.com/soumalya1902/READ-REMI/assets/149316877/ddedede0-433c-4a68-bed0-b5a50abc44b2
+https://github.com/soumalya1902/READ-REMI/assets/149316877/440b51bb-9746-4f0a-bcdc-c5021763baed
+https://github.com/soumalya1902/READ-REMI/assets/149316877/4f6eddc2-66be-4249-9800-655859d35247
+https://github.com/soumalya1902/READ-REMI/assets/149316877/3d289aec-c5fa-4e61-b8db-fa86e105df02
+https://github.com/soumalya1902/READ-REMI/assets/149316877/9adefb4e-a6f6-44ac-a4bd-951f24bcfd27
+
+
+
+
 ## 📸 Screenshots :
 
 <table>
