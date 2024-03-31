@@ -10,7 +10,7 @@
   Multiple Ailment AI Based Prognosis with Personalized Telecare Assistance Platform
 </h3>
 
-## <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJ3YWRuajZ1d2pydm0zaW44bW1qMmF2eHlleW1peGt5ejhrMjJkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kU4mcmHfmV7YhuIj6J/giphy.gif" width="45"> Project Details :
+## 💻 Project Details :
 
 
 
